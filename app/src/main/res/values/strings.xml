@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification Utilities</string>
+    <string-array name="operation_types">
+        <item>Math Expression</item>
+        <item>Unit Conversion</item>
+        <item>Currency Conversion</item>
+    </string-array>
+</resources>
